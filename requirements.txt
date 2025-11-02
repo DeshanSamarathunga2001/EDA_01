@@ -4,3 +4,4 @@ scikit-learn #model & data preprocessing
 openai # EDA Process
 groq  #EDA Process
 seaborn #visualizations
+dotenv
